@@ -4,12 +4,12 @@ The **Multiple Disease Prediction System** is an ML-based tool for early detecti
 
 Get API Key from https://aistudio.google.com/app/apikey
 
-Install requed packages :- 
+Install required packages :- 
 ```bash  
 pip install -r requirements.txt 
 ```
 
-Run streamlit :- 
+Run Streamlit :- 
 ```cmd  
 streamlit run app.py 
 ```
